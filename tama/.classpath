@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Samantha/Downloads/processing-4.0b1-windows64/processing-4.0b1/core/library/core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Samantha/Downloads/minim-2.2.2/minim/library/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Samantha/Downloads/minim-2.2.2/minim/library/jsminim.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Samantha/Downloads/minim-2.2.2/minim/library/minim.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Samantha/Downloads/minim-2.2.2/minim/library/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Samantha/Downloads/minim-2.2.2/minim/library/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Samantha/Downloads/minim-2.2.2/minim/library/tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
